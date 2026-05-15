@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GeoCodeLambdaApp.Domain/1.0.0": {
+        "dependencies": {
+          "GeoCodeLambdaApp.Shared": "1.0.0"
+        },
+        "runtime": {
+          "GeoCodeLambdaApp.Domain.dll": {}
+        }
+      },
+      "GeoCodeLambdaApp.Shared/1.0.0": {
+        "runtime": {
+          "GeoCodeLambdaApp.Shared.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GeoCodeLambdaApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GeoCodeLambdaApp.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

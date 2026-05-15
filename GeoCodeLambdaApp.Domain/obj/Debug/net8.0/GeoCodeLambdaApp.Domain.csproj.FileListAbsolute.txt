@@ -1,0 +1,15 @@
+C:\Users\vakht\OneDrive\Desktop\GeoCodeLambda\GeoCodeLambdaApp\GeoCodeLambdaApp.Domain\bin\Debug\net8.0\GeoCodeLambdaApp.Domain.deps.json
+C:\Users\vakht\OneDrive\Desktop\GeoCodeLambda\GeoCodeLambdaApp\GeoCodeLambdaApp.Domain\bin\Debug\net8.0\GeoCodeLambdaApp.Domain.dll
+C:\Users\vakht\OneDrive\Desktop\GeoCodeLambda\GeoCodeLambdaApp\GeoCodeLambdaApp.Domain\bin\Debug\net8.0\GeoCodeLambdaApp.Domain.pdb
+C:\Users\vakht\OneDrive\Desktop\GeoCodeLambda\GeoCodeLambdaApp\GeoCodeLambdaApp.Domain\bin\Debug\net8.0\GeoCodeLambdaApp.Shared.dll
+C:\Users\vakht\OneDrive\Desktop\GeoCodeLambda\GeoCodeLambdaApp\GeoCodeLambdaApp.Domain\bin\Debug\net8.0\GeoCodeLambdaApp.Shared.pdb
+C:\Users\vakht\OneDrive\Desktop\GeoCodeLambda\GeoCodeLambdaApp\GeoCodeLambdaApp.Domain\obj\Debug\net8.0\GeoCodeLambdaApp.Domain.csproj.AssemblyReference.cache
+C:\Users\vakht\OneDrive\Desktop\GeoCodeLambda\GeoCodeLambdaApp\GeoCodeLambdaApp.Domain\obj\Debug\net8.0\GeoCodeLambdaApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vakht\OneDrive\Desktop\GeoCodeLambda\GeoCodeLambdaApp\GeoCodeLambdaApp.Domain\obj\Debug\net8.0\GeoCodeLambdaApp.Domain.AssemblyInfoInputs.cache
+C:\Users\vakht\OneDrive\Desktop\GeoCodeLambda\GeoCodeLambdaApp\GeoCodeLambdaApp.Domain\obj\Debug\net8.0\GeoCodeLambdaApp.Domain.AssemblyInfo.cs
+C:\Users\vakht\OneDrive\Desktop\GeoCodeLambda\GeoCodeLambdaApp\GeoCodeLambdaApp.Domain\obj\Debug\net8.0\GeoCodeLambdaApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vakht\OneDrive\Desktop\GeoCodeLambda\GeoCodeLambdaApp\GeoCodeLambdaApp.Domain\obj\Debug\net8.0\GeoCodeL.F0A4455E.Up2Date
+C:\Users\vakht\OneDrive\Desktop\GeoCodeLambda\GeoCodeLambdaApp\GeoCodeLambdaApp.Domain\obj\Debug\net8.0\GeoCodeLambdaApp.Domain.dll
+C:\Users\vakht\OneDrive\Desktop\GeoCodeLambda\GeoCodeLambdaApp\GeoCodeLambdaApp.Domain\obj\Debug\net8.0\refint\GeoCodeLambdaApp.Domain.dll
+C:\Users\vakht\OneDrive\Desktop\GeoCodeLambda\GeoCodeLambdaApp\GeoCodeLambdaApp.Domain\obj\Debug\net8.0\GeoCodeLambdaApp.Domain.pdb
+C:\Users\vakht\OneDrive\Desktop\GeoCodeLambda\GeoCodeLambdaApp\GeoCodeLambdaApp.Domain\obj\Debug\net8.0\ref\GeoCodeLambdaApp.Domain.dll

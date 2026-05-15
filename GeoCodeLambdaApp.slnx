@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="GeoCodeLambdaApp.Application/GeoCodeLambdaApp.Application.csproj" Id="52be82f6-3715-472b-baeb-4755030e81cb" />
+  <Project Path="GeoCodeLambdaApp.Domain/GeoCodeLambdaApp.Domain.csproj" />
+  <Project Path="GeoCodeLambdaApp.Percistance/GeoCodeLambdaApp.Percistance.csproj" />
+  <Project Path="GeoCodeLambdaApp.Shared/GeoCodeLambdaApp.Shared.csproj" Id="5187ffd7-535b-4e78-92ce-1ad83287b995" />
+  <Project Path="GeoCodeLambdaApp/GeoCodeLambdaApp.csproj" />
+</Solution>
