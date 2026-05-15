@@ -1,6 +1,6 @@
-Background 
+GeoCodeLamda
 In this assignment:
-a simple solution using C# .NET Core, version 7. solution 
+a simple solution using C# .NET Core, solution 
 is issuing a GET request to Google Geocode API and using an AWS Lambda Function and store its 
 results in AWS DynamoDB database as cache for 30-days, such that subsequent requests are not 
 routed through Google API but rather fetched from this cache.  
