@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "GeoCodeLambdaApp.Controllers.GeoCodeController",
+    "Method": "GetGeoCode",
+    "RelativePath": "GeoCode/getGeoCode",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "address",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GeoCodeLambdaApp.Shared.Models.Result\u00601[[GeoCodeLambdaApp.Domain.Models.GeoCode, GeoCodeLambdaApp.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
