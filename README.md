@@ -11,7 +11,7 @@ routed through Google API but rather fetched from this cache.
 Functional Requirements:
 1. lambda function utilizing a GET function with US address parameters and outputs the 
 google full response, not just the geocode. For example:
- https://my-lambda-function-on aws/Geocode?address=70 Vanderbilt Ave, New York, NY 10017, United States 
+ https://my-lambda-function-on/aws/Geocode?address=70 Vanderbilt Ave, New York, NY 10017, United States 
 2. lambda function checks whether the response is cache and if so, fetch it from the 
 dynamo db catch for up to 30 days. After 30 days it sends the request to google 
 regardless of cache.  
